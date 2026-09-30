@@ -1,0 +1,2 @@
+# premium-bezel-set-001-bezel-setting-gemstone-techniq
+The bezel-setting-gemstone tool you'd build yourself — if you had the time.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Bezel Setting Gemstone Technique Hub — fully configured and ready to use - Pre-built databas
